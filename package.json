@@ -1,0 +1,21 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "my liri node app for cbc",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "liri",
+    "game",
+    "app",
+    "node",
+    "dudes"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
